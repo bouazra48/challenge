@@ -1,0 +1,31 @@
+.header {
+    background-image: url(1.jpg);
+    height: 300px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: brown;
+    font-family: monospace;
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+h3 {
+    font-size: 60px;
+    color: cadetblue;
+    margin-left: 20px;
+    padding-top: 50px;
+}
+
+.artic {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    width: 300px;
+}
+
+.artic:hover {
+    border: 2px solid black;
+}
